@@ -1,6 +1,5 @@
 ### Project URL 
-https://github.com/kris5885/cli-task
-
+https://roadmap.sh/projects/task-tracker
 # CLI Task Manager
 
 A simple, fast, and local task manager built with Go and Cobra.
