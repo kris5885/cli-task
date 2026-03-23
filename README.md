@@ -34,4 +34,4 @@ go build -o cli-task
 ./cli-task delete 2
 ```
 
-### LINK https://github.com/kris5885/cli-task
+### Project URL https://github.com/kris5885/cli-task
